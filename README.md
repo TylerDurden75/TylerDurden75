@@ -18,7 +18,7 @@ What I love is making code extensible, scalable and reusable.
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDurden75&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDurden75&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Github Stats
