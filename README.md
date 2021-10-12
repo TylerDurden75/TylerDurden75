@@ -14,9 +14,10 @@ What I love is making code extensible, scalable and reusable.
 - :computer: Most used command line `npm i create-react-app`
 - 😄 funny story: passing about 1 hour trying to `npm start` over wrong path.
 
-#### Skills and Experience
+### Skills and Experience
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+
 
 
 <details>
@@ -24,7 +25,6 @@ What I love is making code extensible, scalable and reusable.
   More cool stuff about me
 </summary>
 
-<br >
 
 #### Github Stats
 
