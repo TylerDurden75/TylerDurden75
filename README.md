@@ -1,6 +1,6 @@
 # Hi I'm Thibault <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Thibault J from France, if Dr. COX were DEV he would call me "newbie", perhaps. Would i overReact[{...}] ? No ! because "my biggest mistake would be not to make mistakes" ✍(◔◡◔).
+I'm Thibault J from France, if Dr. COX were DEV he would call me "newbie", perhaps <iframe src='https://gfycat.com/ifr/SizzlingDarlingConey' frameborder='0' scrolling='no' allowfullscreen width='640' height='524'></iframe><p> <a href="https://gfycat.com/sizzlingdarlingconey-dr-cox-scrubs">via Gfycat</a></p>. Would i overReact[{...}] ? No ! because "my biggest mistake would be not to make mistakes" ✍(◔◡◔).
 
 Also, you might have noticed that I really appreciate REACT. As oppposed to JD who had a mentor, I learned React on my own. Juggling between Redux, Redux-Saga, Hooks and different Patterns and approaches.
 
