@@ -22,3 +22,6 @@ What I love is making code extensible, scalable and reusable.
 ## Github Stats
 
 [![TylerDurden75's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerDurden75)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDurden75&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
