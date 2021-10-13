@@ -12,7 +12,7 @@ What I love is making code extensible, scalable and reusable.
 
 - 🔭 I’m currently freelancing.
 - :computer: Most used command line `npm i create-react-app`
-- 😄 funny story: passing about 1 hour trying to `npm start` over wrong path.
+- 😄 funny story: spend about 1 hour trying to `npm start` over wrong path.
 
 ## Skills and Experience
 
