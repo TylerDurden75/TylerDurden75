@@ -8,7 +8,7 @@ What I love is making code extensible, scalable and reusable.
 
 :mailbox: Reach me out! 
 
-[![Mail Badge](https://img.shields.io/badge/-Thibault-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:raytibo.j@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Thibault-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thibaultj.devj@gmail.com)
 
 - 🔭 I’m currently freelancing.
 - :computer: Most used command line `npm i create-react-app`
